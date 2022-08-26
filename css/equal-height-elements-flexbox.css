@@ -1,0 +1,8 @@
+.flexbox {
+    display: flex;
+  }
+  .element {
+    height: 100%;
+    background-color: red;
+    width: 300px;
+  }
